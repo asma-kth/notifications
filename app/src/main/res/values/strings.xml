@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Four Simple Rules For Happier Life</string>
+    <string name="title">4 Simple Rules For Happier Life</string>
+    <string name="smiletext">Scientists have found that smiling on purpose can help people feel better.IT changes brain chemistry. So it can be a big help to people who are dealing with depression and anxiety. What are You waiting for FAKE IT TILL YOU MAKe iT. Dont worry we will notify you so you could remember to SMILE. THANK ME LATER</string>
+    <string name="watertext">Our hearts and our brains consist of more water than the rest of our body. It’s pretty important stuff if we want to function at our best, physically and mentally.Start with a glass of water first thing in the morning. Drink two or three glasses between meals. Dont Worry we will remind you to stay HYDRATED</string>
+    <string name="squatstext">Exercise can increase the production of endorphins, which are known to help produce positive feelings and reduce the perception of pain. 25 squats every time you enter the bathroom and 30 min walking everyday can make you the HAPPIEST PERSON on earth.Dont worry we will remind you to do your squats</string>
+    <string name="breathtext">Breathing will help clear uneasy feelings out of your body. Oxygenation of the brain reducing excessive anxiety levels. Paying attention to your breathing. BREATH SLOWLY AND DEEPLY 3 times in a row and thank me later
+</string>
+    <string name="contentDsmile">smile</string>
+    <string name="contendDwater">water</string>
+    <string name="contentDbreath">breath</string>
+    <string name="contentDsquat">squat</string>
+    <string name="titlebreath">Take a deeeep breath...</string>
+    <string name="breathactivty">breathactivty</string>
+    <string name="smiletextactivity">Smile Fake It Till You Make It</string>
+    <string name="smileimageactivity">smileimageactivity</string>
+    <string name="squatactivity">25 SQUATS every Time you go the bathroom</string>
+</resources>
