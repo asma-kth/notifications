@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132512130032",
+    "firebase_url": "https://foursimplerulesforhappierlife.firebaseio.com",
+    "project_id": "foursimplerulesforhappierlife",
+    "storage_bucket": "foursimplerulesforhappierlife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132512130032:android:0cb135912fb0aa37",
+        "android_client_info": {
+          "package_name": "com.kthiri.foursimplerulesforhappierlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132512130032-07h3fc13a4krulprj0iglh5ahlo5urlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kthiri.foursimplerulesforhappierlife",
+            "certificate_hash": "33725de79b083e0186fa0103bf483b121128ae15"
+          }
+        },
+        {
+          "client_id": "132512130032-gco5e82r7v8cvpj05ne6fqic926ce5l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZC9QUVUnAP5CilwjPiiGHS1KiqsBnyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132512130032-gco5e82r7v8cvpj05ne6fqic926ce5l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

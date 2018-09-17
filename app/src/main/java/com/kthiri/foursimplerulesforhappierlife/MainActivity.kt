@@ -10,13 +10,11 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
 
 
-private var notify = false
+
     private var mNotificationTime = Calendar.getInstance().timeInMillis + 5000
-    private var nof2= Calendar.getInstance().timeInMillis+3600000
-    private var nof3= Calendar.getInstance().timeInMillis+7200000
-    private var nof4= Calendar.getInstance().timeInMillis+10800000
-    private var nof5= Calendar.getInstance().timeInMillis+14400000
-    private var nof6= Calendar.getInstance().timeInMillis+18000000
+   // private var nof2= Calendar.getInstance().timeInMillis+10000
+    //private var nof3= Calendar.getInstance().timeInMillis+7200000
+    //private var nof4= Calendar.getInstance().timeInMillis+10800000
 
      //Set after 5 seconds from the current time.
 
@@ -27,11 +25,16 @@ private var notify = false
 
 
 
-        if (!notify) {
+
 
             NotificationUtils().setNotification(mNotificationTime, this@MainActivity)
 
-    }
+
+          //  NotificationUtils().setNotification(nof2, this@MainActivity)
+                    //NotificationUtils().setNotification(nof3, this@MainActivity)
+            //NotificationUtils().setNotification(nof4, this@MainActivity)
+
+
 
 
 
