@@ -9,11 +9,5 @@ import kotlin.math.log
 
 class MyFirebaseInstanceIDService : FirebaseInstanceIdService(){
 
-    override fun onTokenRefresh() {
-        super.onTokenRefresh()
-        sendTokenToServer()
-    }
-private fun sendTokenToServer(){
-    Log.d("TOKEN",FirebaseInstanceId.getInstance().token)
-}
+
 }
